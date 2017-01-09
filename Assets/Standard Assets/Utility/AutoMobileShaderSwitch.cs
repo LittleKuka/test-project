@@ -141,6 +141,8 @@ namespace UnityStandardAssets.Utility.Inspector
                                             items.DeleteArrayElementAtIndex(i);
                                             changedLength = true;
                                             break;
+
+
                                         case "v":
                                             if (i > 0)
                                             {
